@@ -19,6 +19,7 @@ List of resources about federated learning
 | SCAFFOLD  | [SCAFFOLD: Stochastic Controlled Averaging for Federated Learning](https://arxiv.org/abs/1910.06378)          | 2020 |      |
 
 ## Libraries
+* [FedJAX](https://fedjax.readthedocs.io/en/latest/index.html) (Google)
 * [PyShift](https://github.com/OpenMined/PySyft) (OpenMined)
 * [fl-simulation](https://github.com/microsoft/fl-simulation) (Microsoft)
 * [FedML](https://doc.fedml.ai/)
